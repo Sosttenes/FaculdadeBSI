@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-//
+//Calcule a soma da sequência S=1+(x^2/3!)-(x^3/4!)+...
 
 int main() {
     //Declaração de variáveis
