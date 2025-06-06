@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Calcule o fatorial de um numero
+//Calcule o fatorial de um número
 
 int main(){
     //Declaração de variáveis

@@ -33,7 +33,7 @@ int main(){
         //Processamento
         totAltura+=mediaAltura;
     }
-    //Saída
+    //Saídas
     printf("A quantidade de jogadores menores de 18 eh: %d\n", menor18);
     printf("A media das alturas dos jogadores eh: %.2f\n", totAltura/20.0);
     printf("A porcentagem de jogadores com mais de 80kg eh: %.2f\n %", (kg80/20.0)*100);
